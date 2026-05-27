@@ -1,7 +1,8 @@
-﻿# Examine Text
-gas-pressure-regulator-system-examined = The valve is [color={$statusColor}]{$open ->
-[true] open
-*[false] closed
-}[/color].
-gas-pressure-regulator-examined-threshold-pressure = The threshold pressure is set at [color=lightblue]{$threshold} kPa[/color].
-gas-pressure-regulator-examined-flow-rate = The flow rate meter indicates [color=lightblue]{$flowRate} L/s[/color].
+# Examine Text
+gas-pressure-regulator-system-examined =
+    Клапан находится в состоянии [color={ $statusColor }]{ $open ->
+        [true] открытый
+       *[false] закрытый
+    }[/color].
+gas-pressure-regulator-examined-threshold-pressure = Пороговое давление установлено на уровне [color=lightblue]{ $threshold } кПа[/color].
+gas-pressure-regulator-examined-flow-rate = Счетчик расхода показывает [color=lightblue]{ $flowRate } л/с[/color].

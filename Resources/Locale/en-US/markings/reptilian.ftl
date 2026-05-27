@@ -1,125 +1,85 @@
-marking-LizardFrillsShort-frills_short = Lizard Frills (Short)
-marking-LizardFrillsShort = Lizard Frills (Short)
-
-marking-LizardFrillsSimple-frills_simple = Lizard Frills (Simple)
-marking-LizardFrillsSimple = Lizard Frills (Simple)
-
-marking-LizardFrillsAquatic-frills_aquatic = Lizard Frills (Aquatic)
-marking-LizardFrillsAquatic = Lizard Frills (Aquatic)
-
-marking-LizardHornsAngler-horns_angler = Lizard Horns (Angler)
-marking-LizardHornsAngler = Lizard Horns (Angler)
-
-marking-LizardHornsCurled-horns_curled = Lizard Horns (Curled)
-marking-LizardHornsCurled = Lizard Horns (Curled)
-
-marking-LizardHornsRam-horns_ram = Lizard Horns (Ram)
-marking-LizardHornsRam = Lizard Horns (Ram)
-
-marking-LizardHornsShort-horns_short = Lizard Horns (Short)
-marking-LizardHornsShort = Lizard Horns (Short)
-
-marking-LizardHornsSimple-horns_simple = Lizard Horns
-marking-LizardHornsSimple = Lizard Horns
-
-marking-LizardTailSmooth-tail_smooth_primary = Lizard Tail
-marking-LizardTailSmooth-tail_smooth_secondary = Under Tone
-marking-LizardTailSmooth = Lizard Tail (Smooth)
-
-marking-LizardTailLarge-tail_large = Lizard Tail (Large)
-marking-LizardTailLarge = Lizard Tail (Large)
-
-marking-LizardTailSpikes-tail_spikes = Lizard Tail (Spiky)
-marking-LizardTailSpikes = Lizard Tail (Spiky)
-
-marking-LizardTailLTiger-tail_ltiger = Lizard Tail (Light Tiger Stripes)
-marking-LizardTailLTiger = Lizard Tail (Light Tiger Stripes)
-
-marking-LizardTailDTiger-tail_dtiger = Lizard Tail (Dark Tiger Stripes)
-marking-LizardTailDTiger = Lizard Tail (Dark Tiger Stripes)
-
-marking-LizardTailAquatic-tail_aquatic = Lizard Tail (Aquatic)
-marking-LizardTailAquatic = Lizard Tail (Aquatic)
-
-marking-LizardSnoutRound-snout_round = Lizard Snout (Round)
-marking-LizardSnoutRound = Lizard Snout (Round)
-
-marking-LizardSnoutSharp-snout_sharp = Lizard Snout (Sharp)
-marking-LizardSnoutSharp = Lizard Snout (Sharp)
-
-marking-LizardChestTiger-body_tiger = Lizard Chest (Tiger)
-marking-LizardChestTiger = Lizard Chest (Tiger)
-
-marking-LizardHeadTiger-head_tiger = Lizard Head (Tiger)
-marking-LizardHeadTiger = Lizard Head (Tiger)
-
-marking-LizardLArmTiger-l_arm_tiger = Lizard Left Arm (Tiger)
-marking-LizardLArmTiger = Lizard Left Arm (Tiger)
-
-marking-LizardLLegTiger-l_leg_tiger = Lizard Left Leg (Tiger)
-marking-LizardLLegTiger = Lizard Left Leg (Tiger)
-
-marking-LizardRArmTiger-r_arm_tiger = Lizard Right Arm (Tiger)
-marking-LizardRArmTiger = Lizard Right Arm (Tiger)
-
-marking-LizardRLegTiger-r_leg_tiger = Lizard Right Leg (Tiger)
-marking-LizardRLegTiger = Lizard Right Leg (Tiger)
-
-marking-LizardFrillsDivinity-frills_divinity = Lizard Frills (Divinity)
-marking-LizardFrillsDivinity = Lizard Frills (Divinity)
-
-marking-LizardFrillsBig-frills_big = Lizard Frills (Big)
-marking-LizardFrillsBig = Lizard Frills (Big)
-
-marking-LizardFrillsNeckfull-frills_neckfull = Lizard Frills (Neckfull)
-marking-LizardFrillsNeckfull = Lizard Frills (Neckfull)
-
-marking-LizardHornsDouble-horns_double = Lizard Horns (Double)
-marking-LizardHornsDouble = Lizard Horns (Double)
-
-marking-LizardFrillsAxolotl-frills_axolotl = Lizard Frills (Axolotl)
-marking-LizardFrillsAxolotl = Lizard Frills (Axolotl)
-
-marking-LizardFrillsHood-frills_hood_primary = Outer Hood
-marking-LizardFrillsHood-frills_hood_secondary = Inner Hood
-marking-LizardFrillsHood = Lizard Frills (Hood)
-
-marking-LizardHornsArgali-horns_argali = Lizard Horns (Argali)
-marking-LizardHornsArgali = Lizard Horns (Argali)
-
-marking-LizardHornsAyrshire-horns_ayrshire = Lizard Horns (Ayrshire)
-marking-LizardHornsAyrshire = Lizard Horns (Ayrshire)
-
-marking-LizardHornsMyrsore-horns_myrsore = Lizard Horns (Myrsore)
-marking-LizardHornsMyrsore = Lizard Horns (Myrsore)
-
-marking-LizardHornsBighorn-horns_bighorn = Lizard Horns (Bighorn)
-marking-LizardHornsBighorn = Lizard Horns (Bighorn)
-
-marking-LizardHornsDemonic-horns_demonic = Lizard Horns (Demonic)
-marking-LizardHornsDemonic = Lizard Horns (Demonic)
-
-marking-LizardHornsKoboldEars-horns_kobold_ears = Lizard Ears (Kobold)
-marking-LizardHornsKoboldEars = Lizard Ears (Kobold)
-
-marking-LizardHornsFloppyKoboldEars-horns_floppy_kobold_ears = Lizard Ears (Floppy Kobold)
-marking-LizardHornsFloppyKoboldEars = Lizard Ears (Floppy Kobold)
-
-marking-LizardChestUnderbelly-body_underbelly = Lizard Chest (Underbelly)
-marking-LizardChestUnderbelly = Lizard Chest (Underbelly)
-
-marking-LizardChestBackspikes-body_backspikes = Lizard Back spikes (Four)
-marking-LizardChestBackspikes = Lizard Back spikes (Four)
-
-marking-LizardChestFin-body_fin = Lizard Fin
-marking-LizardChestFin = Lizard Fin
-
-marking-LizardSnoutSplotch = Lizard Snout (Splotch)
-marking-LizardSnoutSplotch-snout_splotch_primary = Muzzle
-marking-LizardSnoutSplotch-snout_splotch_secondary = Snoot
-
-marking-LizardSnoutVisageSharp = Lizard Visage (Sharp)
-marking-LizardSnoutVisageSharp-visage_sharp = Lizard Visage (Sharp)
-
-marking-LizardSnoutVisageRound = Lizard Visage (Round)
-marking-LizardSnoutVisageRound-visage_round = Lizard Visage (Round)
+marking-LizardFrillsShort-frills_short = Ящер, воротник (Короткий)
+marking-LizardFrillsShort = Ящер, воротник (Короткий)
+marking-LizardFrillsSimple-frills_simple = Ящер, воротник (Простой)
+marking-LizardFrillsSimple = Ящер, воротник (Простой)
+marking-LizardFrillsAquatic-frills_aquatic = Ящер, воротник (Водный)
+marking-LizardFrillsAquatic = Ящер, воротник (Водный)
+marking-LizardHornsAngler-horns_angler = Ящер, рожки (Рыболов)
+marking-LizardHornsAngler = Ящер, рожки (Рыболов)
+marking-LizardHornsCurled-horns_curled = Ящер, рожки (Завитые)
+marking-LizardHornsCurled = Ящер, рожки (Завитые)
+marking-LizardHornsRam-horns_ram = Ящер, рожки (Бараньи)
+marking-LizardHornsRam = Ящер, рожки (Бараньи)
+marking-LizardHornsShort-horns_short = Ящер, рожки (Короткие)
+marking-LizardHornsShort = Ящер, рожки (Короткие)
+marking-LizardHornsSimple-horns_simple = Ящер, рожки
+marking-LizardHornsSimple = Ящер, рожки
+marking-LizardTailSmooth-tail_smooth_primary = Ящер, хвост
+marking-LizardTailSmooth-tail_smooth_secondary = Оттенок
+marking-LizardTailSmooth = Ящер, хвост (Гладкий)
+marking-LizardTailLarge-tail_large = Ящер, хвост (Большой)
+marking-LizardTailLarge = Ящер, хвост (Большой)
+marking-LizardTailSpikes-tail_spikes = Ящер, хвост (Шипастый)
+marking-LizardTailSpikes = Ящер, хвост (Шипастый)
+marking-LizardTailLTiger-tail_ltiger = Ящер, хвост (Светлые тигриные полоски)
+marking-LizardTailLTiger = Ящер, хвост (Светлые тигриные полоски)
+marking-LizardTailDTiger-tail_dtiger = Ящер, хвост (Тёмные тигриные полоски)
+marking-LizardTailDTiger = Ящер, хвост (Тёмные тигриные полоски)
+marking-LizardTailAquatic-tail_aquatic = Ящер, Хвост (Аква)
+marking-LizardTailAquatic = Ящер, Хвост (Аква)
+marking-LizardSnoutRound-snout_round = Ящер, морда (Круглая)
+marking-LizardSnoutRound = Ящер, морда (Круглая)
+marking-LizardSnoutSharp-snout_sharp = Ящер, морда (Заострёная)
+marking-LizardSnoutSharp = Ящер, морда (Заострёная)
+marking-LizardChestTiger-body_tiger = Ящер, грудь (Тигр)
+marking-LizardChestTiger = Ящер, грудь (Тигр)
+marking-LizardHeadTiger-head_tiger = Ящер, голова (Тигр)
+marking-LizardHeadTiger = Ящер, голова (Тигр)
+marking-LizardLArmTiger-l_arm_tiger = Ящер, левая рука (Тигр)
+marking-LizardLArmTiger = Ящер, левая рука (Тигр)
+marking-LizardLLegTiger-l_leg_tiger = Ящер, левая нога (Тигр)
+marking-LizardLLegTiger = Ящер, левая нога (Тигр)
+marking-LizardRArmTiger-r_arm_tiger = Ящер, правая рука (Тигр)
+marking-LizardRArmTiger = Ящер, правая рука (Тигр)
+marking-LizardRLegTiger-r_leg_tiger = Ящер, правая нога (Тигр)
+marking-LizardRLegTiger = Ящер, правая нога (Тигр)
+marking-LizardFrillsDivinity-frills_divinity = Ящер, воротник (Божественный)
+marking-LizardFrillsDivinity = Ящер, воротник (Божественный)
+marking-LizardFrillsBig-frills_big = Ящер, воротник (Большой)
+marking-LizardFrillsBig = Ящер, воротник (Большой)
+marking-LizardFrillsNeckfull-frills_neckfull = Ящер, воротник (Полношейный)
+marking-LizardFrillsNeckfull = Ящер, воротник (Полношейный)
+marking-LizardHornsDouble-horns_double = Ящер, рожки (Двойные)
+marking-LizardHornsDouble = Ящер, рожки (Двойные)
+marking-LizardFrillsAxolotl-frills_axolotl = Ящер, воротник (Аксолотль)
+marking-LizardFrillsHood-frills_hood_primary = Внешний капюшон
+marking-LizardFrillsHood-frills_hood_secondary = Внутренний капюшон
+marking-LizardFrillsAxolotl = Ящер, воротник (Аксолотль)
+marking-LizardFrillsHood = Ящер, воротник (Капюшон)
+marking-LizardHornsArgali-horns_argali = Ящер, рожки (Аргали)
+marking-LizardHornsArgali = Ящер, рожки (Аргали)
+marking-LizardHornsAyrshire-horns_ayrshire = Ящер, рожки (Айршир)
+marking-LizardHornsAyrshire = Ящер, рожки (Айршир)
+marking-LizardHornsMyrsore-horns_myrsore = Ящер, рожки (Мирзора)
+marking-LizardHornsMyrsore = Ящер, рожки (Мирзора)
+marking-LizardHornsBighorn-horns_bighorn = Ящер, рожки (Толсторог)
+marking-LizardHornsBighorn = Ящер, рожки (Толсторог)
+marking-LizardHornsDemonic-horns_demonic = Ящер, рожки (Демонические)
+marking-LizardHornsDemonic = Ящер, рожки (Демонические)
+marking-LizardHornsKoboldEars-horns_kobold_ears = Ящер, уши (Кобольд)
+marking-LizardHornsKoboldEars = Ящер, уши (Кобольд)
+marking-LizardHornsFloppyKoboldEars-horns_floppy_kobold_ears = Ящер, уши (Вислоухий кобольд)
+marking-LizardHornsFloppyKoboldEars = Ящер, уши (Вислоухий кобольд)
+marking-LizardChestUnderbelly-body_underbelly = Ящер, грудь (Подбрюшье)
+marking-LizardChestUnderbelly = Ящер, грудь (Подбрюшье)
+marking-LizardChestBackspikes-body_backspikes = Ящер, грудь, шипы на спине (Четыре)
+marking-LizardChestBackspikes = Ящер, грудь, шипы на спине (Четыре)
+marking-LizardChestFin-body_fin = Плавник ящера
+marking-LizardChestFin = Плавник ящера
+marking-LizardSnoutSplotch = Ящер, морда лица (Пятно)
+marking-LizardSnoutSplotch-snout_splotch_primary = Морда
+marking-LizardSnoutSplotch-snout_splotch_secondary = Нос
+marking-LizardSnoutVisageSharp = Лик ящера (Заострённый)
+marking-LizardSnoutVisageSharp-visage_sharp = Лик ящера (Заострённый)
+marking-LizardSnoutVisageRound = Лик ящера (Круглый)
+marking-LizardSnoutVisageRound-visage_round = Лик ящера (Круглый)

@@ -1,19 +1,14 @@
-﻿roles-antag-changeling-name = Changeling
-roles-antag-changeling-objective = A intelligent predator that assumes the identities of its victims.
-
-changeling-devour-attempt-failed-rotting = This corpse has only rotted biomass.
-changeling-devour-attempt-failed-protected = This victim's biomass is protected by armor!
-
-changeling-devour-begin-windup-self = Our uncanny mouth reveals itself with otherworldly hunger.
-changeling-devour-begin-windup-others = { CAPITALIZE(POSS-ADJ($user)) } uncanny mouth reveals itself with otherworldly hunger.
-changeling-devour-begin-consume-self = The uncanny mouth digs deep into its victim.
-changeling-devour-begin-consume-others = { CAPITALIZE(POSS-ADJ($user)) } uncanny mouth digs deep into { POSS-ADJ($user) } victim.
-
-changeling-devour-consume-failed-not-dead = This body yet lives! We cannot consume it alive!
-changeling-devour-consume-complete-self = Our uncanny mouth retreats, biomass consumed.
-changeling-devour-consume-complete-others = { CAPITALIZE(POSS-ADJ($user)) } uncanny mouth retreats.
-
-changeling-transform-attempt-self = Our bones snap, muscles tear, one flesh becomes another.
-changeling-transform-attempt-others = { CAPITALIZE(POSS-ADJ($user)) } bones snap, muscles tear, body shifts into another.
-
-changeling-paused-map-name = Changeling identity storage map
+roles-antag-changeling-name = Чендлинг
+roles-antag-changeling-objective = Разумный хищник, принимающий личности своих жертв.
+changeling-devour-attempt-failed-rotting = У этого трупа только гнилая биомасса.
+changeling-devour-attempt-failed-protected = Биомасса этой жертвы защищена броней!
+changeling-devour-begin-windup-self = Наш жуткий рот открывается с потусторонним голодом.
+changeling-devour-begin-windup-others = { CAPITALIZE(POSS-ADJ($user)) } жуткий рот открывается с потусторонним голодом.
+changeling-devour-begin-consume-self = Жуткий рот глубоко вгрызается в свою жертву.
+changeling-devour-begin-consume-others = { CAPITALIZE(POSS-ADJ($user)) } жуткий рот глубоко вгрызается в { POSS-ADJ($user) } жертву.
+changeling-devour-consume-failed-not-dead = Это тело ещё живо! Мы не можем поглотить его живым!
+changeling-devour-consume-complete-self = Наш жуткий рот отступает, биомасса поглощена.
+changeling-devour-consume-complete-others = { CAPITALIZE(POSS-ADJ($user)) } жуткий рот отступает.
+changeling-transform-attempt-self = Наши кости ломаются, мышцы рвутся, одна плоть становится другой.
+changeling-transform-attempt-others = { CAPITALIZE(POSS-ADJ($user)) } кости ломаются, мышцы рвутся, тело превращается в другое.
+changeling-paused-map-name = Карта хранения личностей чендлинга

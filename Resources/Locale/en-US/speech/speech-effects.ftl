@@ -1,2 +1,3 @@
-speech-muted = You can't speak right now!
-fake-death-muted = You can't fake your death without a voice!
+speech-muted = Вы не можете сейчас говорить!
+no-mouth-and-must-scream-muted = У тебя нет рта, и ты должен кричать.
+fake-death-muted = Невозможно притвориться мёртвым не имея голоса!

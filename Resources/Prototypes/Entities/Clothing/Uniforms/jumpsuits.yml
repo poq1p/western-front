@@ -1367,3 +1367,25 @@
     sprite: Clothing/Uniforms/Jumpsuit/familiar_garbs.rsi
   - type: Clothing
     sprite: Clothing/Uniforms/Jumpsuit/familiar_garbs.rsi
+  
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitMultic
+  name: NATO multicam
+  description: NATO multicam uniform.
+  components:
+  - type: Sprite
+    sprite: Clothing/Uniforms/Jumpsuit/milticam.rsi
+  - type: Clothing
+    sprite: Clothing/Uniforms/Jumpsuit/milticam.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitBushlat
+  name: USSR uniformm
+  description: USSR OLD uniform.
+  components:
+  - type: Sprite
+    sprite: Clothing/Uniforms/Jumpsuit/opolch.rsi
+  - type: Clothing
+    sprite: Clothing/Uniforms/Jumpsuit/opolch.rsi

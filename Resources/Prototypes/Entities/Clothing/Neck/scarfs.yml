@@ -266,3 +266,25 @@
     sprite: Clothing/Neck/Scarfs/PrideScarfs/lesbian-long.rsi
   - type: Clothing
     sprite: Clothing/Neck/Scarfs/PrideScarfs/lesbian-long.rsi
+
+- type: entity
+  parent: ClothingScarfBase
+  id: PovazkaWhite
+  name: povazka
+  description: white povazka
+  components:
+  - type: Sprite
+    sprite: Clothing/Neck/Scarfs/whitePO.rsi
+  - type: Clothing
+    sprite: Clothing/Neck/Scarfs/whitePO.rsi
+
+- type: entity
+  parent: ClothingScarfBase
+  id: PovazkaRed
+  name: povazkared
+  description: red povazka
+  components:
+  - type: Sprite
+    sprite: Clothing/Neck/Scarfs/redPO.rsi
+  - type: Clothing
+    sprite: Clothing/Neck/Scarfs/redPO.rsi

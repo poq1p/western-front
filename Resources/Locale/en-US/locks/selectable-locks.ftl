@@ -1,16 +1,11 @@
-selectable-lock-verb-category-name = Add lock
-
-selectable-lock-no-lock-verb = No lock
-selectable-lock-no-lock-popup = No lock has been added to {THE($target)}.
-
-selectable-lock-voice-verb = Voice Lock
-selectable-lock-voice-popup = A voice lock has been added to {THE($target)}.
-
-selectable-lock-tool-prying-verb = Tool Lock (Crowbar)
-selectable-lock-tool-prying-popup = A prying tool lock has been added to {THE($target)}.
-
-selectable-lock-tool-screwing-verb = Tool Lock (Screwdriver)
-selectable-lock-tool-screwing-popup = A screwing tool lock has been added to {THE($target)}.
-
-selectable-lock-tool-cutting-verb = Tool Lock (Wirecutter)
-selectable-lock-tool-cutting-popup = A cutting tool lock has been added to {THE($target)}.
+selectable-lock-verb-category-name = Добавить замок
+selectable-lock-no-lock-verb = Без замка
+selectable-lock-no-lock-popup = Замок не был добавлен к { THE($target) }.
+selectable-lock-voice-verb = Голосовой замок
+selectable-lock-voice-popup = Голосовой замок был добавлен к { THE($target) }.
+selectable-lock-tool-prying-verb = Замок инструмента (Лом)
+selectable-lock-tool-prying-popup = Замок инструмента для взлома был добавлен к { THE($target) }.
+selectable-lock-tool-screwing-verb = Замок инструмента (Отвёртка)
+selectable-lock-tool-screwing-popup = Замок инструмента для откручивания был добавлен к { THE($target) }.
+selectable-lock-tool-cutting-verb = Замок инструмента (Кусачки)
+selectable-lock-tool-cutting-popup = Замок инструмента для резки был добавлен к { THE($target) }.

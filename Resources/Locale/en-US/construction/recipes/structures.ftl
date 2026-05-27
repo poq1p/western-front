@@ -1,5 +1,5 @@
-construction-recipe-diagonal-shuttle-wall = shuttle wall (diagonal)
-construction-window-diagonal = window (diagonal)
+construction-recipe-diagonal-shuttle-wall = шаттл-запор (диагональный)
+construction-window-diagonal = окно (диагональное)
 construction-recipe-reinforced-window-diagonal = reinforced window (diagonal)
 construction-recipe-clockwork-window-diagonal = clockwork window (diagonal)
 construction-recipe-plasma-window-diagonal = plasma window (diagonal)

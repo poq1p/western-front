@@ -1,34 +1,39 @@
-delivery-recipient-examine = This one is meant for {$recipient}, {$job}.
-delivery-already-opened-examine = It was already opened.
-delivery-earnings-examine = Delivering this will earn the station [color=yellow]{$spesos}[/color] spesos.
-delivery-recipient-no-name = Unnamed
-delivery-recipient-no-job = Unknown
-
-delivery-unlocked-self = You unlock the {$delivery} with your fingerprint.
-delivery-opened-self = You open the {$delivery}.
-delivery-unlocked-others = {CAPITALIZE($recipient)} unlocked the {$delivery} with {POSS-ADJ($possadj)} fingerprint.
-delivery-opened-others = {CAPITALIZE($recipient)} opened the {$delivery}.
-
-delivery-unlock-verb = Unlock
-delivery-open-verb = Open
-delivery-slice-verb = Slice open
-
+delivery-recipient-examine = Адресовано: { $recipient }, { $job }.
+delivery-already-opened-examine = Уже вскрыто.
+delivery-earnings-examine = Доставка этого принесёт станции [color=yellow]{ $spesos }[/color] кредитов.
+delivery-recipient-no-name = Безымянный
+delivery-recipient-no-job = Неизвестно
+delivery-unlocked-self = Вы разблокировали { $delivery } отпечатком пальца.
+delivery-opened-self = Вы вскрываете { $delivery }.
+delivery-unlocked-others =
+    { CAPITALIZE($recipient) } { GENDER($recipient) ->
+        [male] разблокировал
+        [female] разблокировала
+        [epicene] разблокировали
+       *[neuter] разблокировало
+    } { $delivery } используя свой отпечаток пальца.
+delivery-opened-others =
+    { CAPITALIZE($recipient) } { GENDER($possadj) ->
+        [male] вскрыл
+        [female] вскрыл
+        [epicene] вскрыл
+       *[neuter] вскрыл
+    } { $delivery }.
+delivery-unlock-verb = Разблокировать
+delivery-open-verb = Вскрыть
+delivery-slice-verb = Разрезать и вскрыть
 delivery-teleporter-amount-examine =
     { $amount ->
-        [one] It contains [color=yellow]{$amount}[/color] delivery.
-        *[other] It contains [color=yellow]{$amount}[/color] deliveries.
+        [one] Оно содержит [color=yellow]{ $amount }[/color] почту.
+       *[other] Оно содержит [color=yellow]{ $amount }[/color] почты.
     }
-delivery-teleporter-empty = The {$entity} is empty.
-delivery-teleporter-empty-verb = Take mail
-
-
+delivery-teleporter-empty = { $entity } пуст.
+delivery-teleporter-empty-verb = Взять почту
 # modifiers
-delivery-priority-examine = This is a [color=orange]priority {$type}[/color]. You have [color=orange]{$time}[/color] left to deliver it to get a bonus.
-delivery-priority-delivered-examine = This is a [color=orange]priority {$type}[/color]. It got delivered on time.
-delivery-priority-expired-examine = This is a [color=orange]priority {$type}[/color]. It ran out of time.
-
-delivery-fragile-examine = This is a [color=red]fragile {$type}[/color]. Deliver it intact for a bonus.
-delivery-fragile-broken-examine = This is a [color=red]fragile {$type}[/color]. It looks badly damaged.
-
-delivery-bomb-examine = This is a [color=purple]bomb {$type}[/color]. Oh no.
-delivery-bomb-primed-examine = This is a [color=purple]bomb {$type}[/color]. Reading this is a bad use of your time.
+delivery-priority-examine = Это [color=orange]приоритетное { $type }[/color]. У вас осталось [color=orange]{ $time }[/color] чтобы доставить это и получить бонус.
+delivery-priority-delivered-examine = Это [color=orange]приоритетное { $type }[/color]. Его доставили вовремя.
+delivery-priority-expired-examine = Это [color=orange]приоритетное { $type }[/color]. Его не успели доставить вовремя.
+delivery-fragile-examine = Это [color=red]хрупкое { $type }[/color]. Доставьте его в целости, чтобы получить бонус.
+delivery-fragile-broken-examine = Это [color=red]хрупкое { $type }[/color]. Выглядит сильно повреждённым.
+delivery-bomb-examine = Это [color=purple]бомб { $type }[/color]. Ох нет.
+delivery-bomb-primed-examine = Это [color=purple]бомб { $type }[/color]. Чтение этого – плохое использование вашего времени.

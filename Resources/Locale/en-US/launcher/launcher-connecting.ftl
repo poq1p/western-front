@@ -1,21 +1,22 @@
 ### Connecting dialog when you start up the game
 
-connecting-title = Space Station 14
-connecting-exit = Exit
-connecting-retry = Retry
-connecting-reconnect = Reconnect
-connecting-copy = Copy Message
-connecting-redial = Relaunch
-connecting-redial-wait = Please wait: { TOSTRING($time, "G3") }
-connecting-in-progress = Connecting to server...
-connecting-disconnected = Disconnected from server:
-connecting-tip = Don't die!
-connecting-window-tip = Tip { $numberTip }
-connecting-version = ver 0.1
-connecting-fail-reason = Failed to connect to server:
-                         { $reason }
-connecting-state-NotConnecting = Not connecting
-connecting-state-ResolvingHost = Resolving host
-connecting-state-EstablishingConnection = Establishing connection
-connecting-state-Handshake = Handshake
-connecting-state-Connected = Connected
+connecting-title = Backmen 14
+connecting-exit = Выйти
+connecting-retry = Повторить
+connecting-reconnect = Переподключиться
+connecting-copy = Скопировать сообщение
+connecting-redial = Перезапустить
+connecting-redial-wait = Пожалуйста подождите: { TOSTRING($time, "G3") }
+connecting-in-progress = Подключение к серверу...
+connecting-disconnected = Отключён от сервера:
+connecting-tip = В космосе тебя никто не услышит.
+connecting-window-tip = Совет { $numberTip }
+connecting-version = версия 7.1
+connecting-fail-reason =
+    Не удалось подключиться к серверу:
+    { $reason }
+connecting-state-NotConnecting = Не подключен
+connecting-state-ResolvingHost = Определение хоста
+connecting-state-EstablishingConnection = Установка соединения
+connecting-state-Handshake = Гоооооол...
+connecting-state-Connected = Подключен!

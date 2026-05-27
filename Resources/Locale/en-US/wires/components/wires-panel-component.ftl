@@ -1,8 +1,5 @@
-wires-panel-component-on-examine-open = The [color=lightgray]maintenance panel[/color] is [color=red]open[/color].
-wires-panel-component-on-examine-closed = The [color=lightgray]maintenance panel[/color] is [color=darkgreen]closed[/color].
-
-# wire colors
-
+wires-panel-component-on-examine-open = [color=lightgray]Техническая панель[/color] [color=red]открыта[/color].
+wires-panel-component-on-examine-closed = [color=lightgray]Техническая панель[/color] [color=darkgreen]закрыта[/color].
 wire-name-color-red = Red
 wire-name-color-blue = Blue
 wire-name-color-green = Green
@@ -15,7 +12,6 @@ wire-name-color-navy = Navy
 wire-name-color-purple = Purple
 wire-name-color-pink = Pink
 wire-name-color-fuchsia = Fuchsia
-
 # letter names
 wire-letter-name-alpha = Alpha
 wire-letter-name-beta = Beta

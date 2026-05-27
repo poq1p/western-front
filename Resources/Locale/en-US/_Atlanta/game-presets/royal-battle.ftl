@@ -1,39 +1,40 @@
 rb-title = Atlanta Royal
-rb-description = Many contenders fight for the title of the best! Weapon crates are scattered across the map — use them wisely to eliminate all your opponents!
+rb-description = Множество претендентов борятся за звание лучшего! По карте стоят ящики с оружием, используйте их с умом для уничтожения всех ваших оппонентов!
 
-rb-agent-name = Atlanta warrior
+rb-agent-name = воин Атланты
 
-rb-rules = Welcome, players! You have entered the Atlanta Royal game mode — a battle royale in Space Station 14. Your objectives:
-    1 - Find weapons.
-    2 - Find supplies (food/medicine/other).
-    3 - Eliminate players — use tactics (no exploits!) to claim victory.
-    0 - Become the winner.
-    Note that every 2–5 minutes the zone shrinks, down to the minimum.
-    Main rules:
-    - Meta-information is forbidden.
-    - Teaming is forbidden.
-    - Third-party software is forbidden.
-    - Exploiting bugs is forbidden.
-    - Insulting players or inappropriate behavior is forbidden.
+rb-rules = Приветствую уважаемые игроки! Вы попали в игровой режим Atlanta royal - это своеобразный battle royal в space station 14, ваша задача:
+    1 - Найти оружие.
+    2 - Найти снабжение(еда/медикаменты/прочее)
+    3 - Убивать игроков, используйте хитрости(не багоюз)/тактики для того что бы одержать победу
+    0 - Стать победителем
+    Заметьте, что каждые 2-5 минут зона ссужается, вплоть до минимума
+    Основные правила:
+    - Запрещена мета-информация
+    - Запрещён тимминг
+    - Запрещено посторонее ПО
+    - Запрещено использовать багоюз(баги ивента/игры в своих целях)
+    - Запрещено оскорблять игроков/неадекватно вести себя
+    - Boosty или админам запрещено помогать другим игрокам/помогать себе пополнением здоровья/выдачей предметов и прочим в период проведения ивента.
 
-rb-lobby-remain = Please wait { $seconds }s while all players connect.
-rb-lobby-cant-spawn = Failed to load the lobby map! The game cannot continue, a restart will follow. Please notify the administration via AHelp!
-rb-lobby-wait-time-remain = { $seconds }s until start.
+rb-lobby-remain = Подождите { $seconds }с, пока подключатся все игроки.
+rb-lobby-cant-spawn = Не удалось загрузить карту лобби! Игра не может продолжаться, поэтому будет совершён перезапуск. Обязательно уведомите администрацию, хотя бы посредством AHelp!
+rb-lobby-wait-time-remain = Осталось { $seconds }с до начала.
 
-rb-lobby-end = The battle begins...
-rb-start-battle-player-count = { $count } players are fighting for the title of winner!
+rb-lobby-end = Битва начинается...
+rb-start-battle-player-count = За звание победителя борятся { $count } игроков!
 
-rb-zone-startup = The zone will become unstable in { $seconds }s! Get ready!
+rb-zone-startup = Зона перейдёт в нестабильное состоние через { $seconds }с! Приготовьтесь!
 
-rb-next-wave-announce = Next zone shift in { $seconds }s!
-rb-zone-unstable = Warning! The zone is unstable again: it is shrinking!
+rb-next-wave-announce = Следующее смещение зоны будет через { $seconds }с!
+rb-zone-unstable = Внимание! Зона вновь нестабильна: она начала сужаться!
 
-rb-death-announce = { $count } opponents remaining!
+rb-death-announce = Осталось { $count } оппонентов!
 
-rb-winner = We have a winner! It's { $winner }!
-rb-draw = Oops! Looks like everyone died. Well, we didn't expect much!
-rb-ending-announce = Thank you all for participating! Let's congratulate all the contestants!
+rb-winner = И у нас есть победитель! Это { $winner }!
+rb-draw = Опс! Видимо все погибли. Чтож, мы и не надеялись!
+rb-ending-announce = Всем спасибо за участие! Поздравим всех участников!
 
-rb-results-everyone-dead = Everyone is dead!
-rb-results-place = { $place } place: { $player }, eliminated { $kills } targets
-rb-result-prise-place = [bold]{ $place } place: { $player }, eliminated { $kills } targets - { $price } points[/bold]
+rb-results-everyone-dead = Все погибли!
+rb-results-place = { $place } место: { $player }, устранил { $kills } целей
+rb-result-prise-place = [bold]{ $place } место: { $player }, устранил { $kills } целей - { $price } очков[/bold]

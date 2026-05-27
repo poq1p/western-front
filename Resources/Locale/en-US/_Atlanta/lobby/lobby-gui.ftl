@@ -1,4 +1,4 @@
-ui-lobby-score-panel = Scoreboard
-ui-lobby-score-nickname = Nickname
-ui-lobby-score-win-score = Score
-ui-lobby-score-kills = Kills
+ui-lobby-score-panel = Таблица Рекордов
+ui-lobby-score-nickname = Имя
+ui-lobby-score-win-score = Счёт
+ui-lobby-score-kills = Убийства

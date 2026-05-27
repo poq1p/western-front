@@ -1,113 +1,113 @@
-marking-TattooVoxNightlingHead-tattoo_nightling_head = Vox Head Tattoo (Nightling)
-marking-TattooVoxNightlingHead = Vox Head Tattoo (Nightling)
+marking-TattooVoxNightlingHead-tattoo_nightling_head = Татуировка головы вокса (Ночной)
+marking-TattooVoxNightlingHead = Татуировка головы вокса (Ночной)
 
-marking-TattooVoxArrowHead-tattoo_arrow_head = Vox Head Tattoo (Arrow)
-marking-TattooVoxArrowHead = Vox Head Tattoo (Arrow)
+marking-TattooVoxArrowHead-tattoo_arrow_head = Татуировка головы вокса (Стрела)
+marking-TattooVoxArrowHead = Татуировка головы вокса (Стрела)
 
-marking-VoxTattooEyeliner-eyeliner = Eyeliner
-marking-VoxTattooEyeliner = Eyeliner
+marking-VoxTattooEyeliner-eyeliner = Подводка для глаз
+marking-VoxTattooEyeliner = Подводка для глаз
 
-marking-VoxVisage-visage = Visage (Full)
-marking-VoxVisage = Visage (Full)
+marking-VoxVisage-visage = Лик (Полный)
+marking-VoxVisage = Лик (Полный)
 
-marking-VoxVisageL-visage_l = Visage (Left)
-marking-VoxVisageL = Visage (Left)
+marking-VoxVisageL-visage_l = Лик (Левый)
+marking-VoxVisageL = Лик (Левый)
 
-marking-VoxVisageR-visage_r = Visage (Right)
-marking-VoxVisageR = Visage (Right)
+marking-VoxVisageR-visage_r = Лик (Правый)
+marking-VoxVisageR = Лик (Правый)
 
-marking-VoxCheek-cheekblush = Cheeks
-marking-VoxCheek = Cheeks
+marking-VoxCheek-cheekblush = Щёки
+marking-VoxCheek = Щёки
 
-marking-VoxBeak-beak = Beak (Pointed)
-marking-VoxBeak = Beak (Pointed)
+marking-VoxBeak-beak = Клюв (Острый)
+marking-VoxBeak = Клюв (Острый)
 
-marking-VoxBeakSquareCere-beak_squarecere = Beak (Square Cere)
-marking-VoxBeakSquareCere = Beak (Square Cere)
+marking-VoxBeakSquareCere-beak_squarecere = Клюв (Квадратная восковица)
+marking-VoxBeakSquareCere = Клюв (Квадратная восковица)
 
-marking-VoxBeakHooked-beak_hooked = Beak (Hooked)
-marking-VoxBeakHooked = Beak (Hooked)
+marking-VoxBeakHooked-beak_hooked = Клюв (Крючковатый)
+marking-VoxBeakHooked = Клюв (Крючковатый)
 
-marking-VoxBeakShaved-beak_shaved = Beak (Shaved)
-marking-VoxBeakShaved = Beak (Shaved)
+marking-VoxBeakShaved-beak_shaved = Клюв (Сбритый)
+marking-VoxBeakShaved = Клюв (Сбритый)
 
-marking-VoxBeakCoverTip-beakcover_tip = Beak Tip
-marking-VoxBeakCoverTip = Beak Tip
+marking-VoxBeakCoverTip-beakcover_tip = Кончик клюва
+marking-VoxBeakCoverTip = Кончик клюва
 
-marking-VoxBeakCoverStripe-beakcover_stripe = Beak Stripe
-marking-VoxBeakCoverStripe = Beak Stripe
+marking-VoxBeakCoverStripe-beakcover_stripe = Полоса на клюве
+marking-VoxBeakCoverStripe = Полоса на клюве
 
-marking-TattooVoxHeartLeftArm-heart_l_arm = Vox Left Arm Tattoo (Heart)
-marking-TattooVoxHeartLeftArm = Vox Left Arm Tattoo (Heart)
+marking-TattooVoxHeartLeftArm-heart_l_arm = Татуировка левой руки вокса (Сердце)
+marking-TattooVoxHeartLeftArm = Татуировка левой руки вокса (Сердце)
 
-marking-TattooVoxHeartRightArm-heart_r_arm = Vox Right Arm Tattoo (Heart)
-marking-TattooVoxHeartRightArm = Vox Right Arm Tattoo (Heart)
+marking-TattooVoxHeartRightArm-heart_r_arm = Татуировка правой руки вокса (Сердце)
+marking-TattooVoxHeartRightArm = Татуировка правой руки вокса (Сердце)
 
-marking-TattooVoxHiveChest-hive_s = Vox Chest Tattoo (Hive)
-marking-TattooVoxHiveChest = Vox Chest Tattoo (Hive)
+marking-TattooVoxHiveChest-hive_s = Татуировка груди вокса (Улей)
+marking-TattooVoxHiveChest = Татуировка груди вокса (Улей)
 
-marking-TattooVoxNightlingChest-nightling_s = Vox Chest Tattoo (Nightling)
-marking-TattooVoxNightlingChest = Vox Chest Tattoo (Nightling)
+marking-TattooVoxNightlingChest-nightling_s = Татуировка груди вокса (Ночной)
+marking-TattooVoxNightlingChest = Татуировка груди вокса (Ночной)
 
-marking-TattooVoxNightbelt-nightbelt = Vox Stomach Tattoo (Nightling)
-marking-TattooVoxNightbelt = Vox Stomach Tattoo (Nightling)
+marking-TattooVoxNightbelt-nightbelt = Татуировка живота вокса (Ночной)
+marking-TattooVoxNightbelt = Татуировка живота вокса (Ночной)
 
-marking-TattooVoxChestV-night_v = Vox Chest Tattoo (V Shape)
-marking-TattooVoxChestV = Vox Chest Tattoo (V Shape)
+marking-TattooVoxChestV-night_v = Татуировка груди вокса (V-образная)
+marking-TattooVoxChestV = Татуировка груди вокса (V-образная)
 
-marking-TattooVoxUnderbelly-underbelly = Underbelly
-marking-TattooVoxUnderbelly = Underbelly
+marking-TattooVoxUnderbelly-underbelly = Брюшко
+marking-TattooVoxUnderbelly = Брюшко
 
-marking-VoxScarEyeRight-vox_scar_eye_right = Right Eye Scar
-marking-VoxScarEyeRight = Eye Scar (Right)
+marking-VoxScarEyeRight-vox_scar_eye_right = Шрам правого глаза
+marking-VoxScarEyeRight = Шрам глаза (Правый)
 
-marking-VoxScarEyeLeft-vox_scar_eye_left = Left Eye Scar
-marking-VoxScarEyeLeft = Eye Scar (Left)
+marking-VoxScarEyeLeft-vox_scar_eye_left = Шрам левого глаза
+marking-VoxScarEyeLeft = Шрам глаза (Левый)
 
-marking-VoxScarTopSurgeryShort-vox_scar_top_surgery_short = Thoracotomy Scar
-marking-VoxScarTopSurgeryShort = Thoracotomy Scar
+marking-VoxScarTopSurgeryShort-vox_scar_top_surgery_short = Шрам торакотомии
+marking-VoxScarTopSurgeryShort = Шрам торакотомии
 
-marking-VoxScarTopSurgeryLong-vox_scar_top_surgery_long = Clamshell Scar
-marking-VoxScarTopSurgeryLong = Clamshell Scar
+marking-VoxScarTopSurgeryLong-vox_scar_top_surgery_long = Шрам кламшелл
+marking-VoxScarTopSurgeryLong = Шрам кламшелл
 
-marking-VoxScarChest-vox_scar_chest = Chest Scar
-marking-VoxScarChest = Chest Scar
+marking-VoxScarChest-vox_scar_chest = Шрам на груди
+marking-VoxScarChest = Шрам на груди
 
-marking-VoxScarNeck-vox_scar_neck = Neck Scar
-marking-VoxScarNeck = Neck Scar
+marking-VoxScarNeck-vox_scar_neck = Шрам на шее
+marking-VoxScarNeck = Шрам на шее
 
-marking-VoxScarChestBullets-vox_scar_chest_bullets = Bullet Holes Scar
-marking-VoxScarChestBullets = Chest Scar (Bullets)
+marking-VoxScarChestBullets-vox_scar_chest_bullets = Шрам от пулевых отверстий
+marking-VoxScarChestBullets = Шрам на груди (Пули)
 
-marking-VoxScarStomachBullets-vox_scar_stomach_bullets = Bullet Holes Scar
-marking-VoxScarStomachBullets = Stomach Scar (Bullets)
+marking-VoxScarStomachBullets-vox_scar_stomach_bullets = Шрам от пулевых отверстий
+marking-VoxScarStomachBullets = Шрам на животе (Пули)
 
-marking-VoxScarFace1-vox_scar_face_1 = Face Scar
-marking-VoxScarFace1 = Face Scar (Large)
+marking-VoxScarFace1-vox_scar_face_1 = Шрам на лице
+marking-VoxScarFace1 = Шрам на лице (Большой)
 
-marking-VoxScarFace2-vox_scar_face_2 = Face Scar
-marking-VoxScarFace2 = Face Scar (Small)
+marking-VoxScarFace2-vox_scar_face_2 = Шрам на лице
+marking-VoxScarFace2 = Шрам на лице (Маленький)
 
-marking-VoxScarEyeRightSmall-vox_scar_eye_right_small = Right Eye Scar (Small)
-marking-VoxScarEyeRightSmall = Small Eye Scar (Right)
+marking-VoxScarEyeRightSmall-vox_scar_eye_right_small = Шрам правого глаза (Маленький)
+marking-VoxScarEyeRightSmall = Маленький шрам глаза (Правый)
 
-marking-VoxScarEyeLeftSmall-vox_scar_eye_left_small = Left Eye Scar (Small)
-marking-VoxScarEyeLeftSmall = Small Eye Scar (Left)
+marking-VoxScarEyeLeftSmall-vox_scar_eye_left_small = Шрам левого глаза (Маленький)
+marking-VoxScarEyeLeftSmall = Маленький шрам глаза (Левый)
 
-marking-VoxTailShort-vox_tail_small = Vox Tail (Short)
-marking-VoxTailShort = Vox Tail (Short)
+marking-VoxTailShort-vox_tail_small = Хвост вокса (Короткий)
+marking-VoxTailShort = Хвост вокса (Короткий)
 
-marking-VoxTail-vox_tail = Vox Tail (Medium)
-marking-VoxTail = Vox Tail (Medium)
+marking-VoxTail-vox_tail = Хвост вокса (Средний)
+marking-VoxTail = Хвост вокса (Средний)
 
-marking-VoxTailBig-vox_tail_big = Vox Tail (Big)
-marking-VoxTailBig = Vox Tail (Big)
+marking-VoxTailBig-vox_tail_big = Хвост вокса (Большой)
+marking-VoxTailBig = Хвост вокса (Большой)
 
-marking-VoxTailSpikes-vox_tail_spikes = Vox Tail (Spiked)
-marking-VoxTailSpikes = Vox Tail (Spiked)
+marking-VoxTailSpikes-vox_tail_spikes = Хвост вокса (Шипастый)
+marking-VoxTailSpikes = Хвост вокса (Шипастый)
 
-marking-VoxTailDocked-vox_tail_docked = Vox Tail (Vestigial)
-marking-VoxTailDocked = Vox Tail (Vestigial)
+marking-VoxTailDocked-vox_tail_docked = Хвост вокса (Рудиментарный)
+marking-VoxTailDocked = Хвост вокса (Рудиментарный)
 
-marking-VoxTailSplit-vox_tail_split = Vox Tail (Split)
-marking-VoxTailSplit = Vox Tail (Split)
+marking-VoxTailSplit-vox_tail_split = Хвост вокса (Раздвоенный)
+marking-VoxTailSplit = Хвост вокса (Раздвоенный)

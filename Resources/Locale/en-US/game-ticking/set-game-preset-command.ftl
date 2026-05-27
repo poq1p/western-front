@@ -1,13 +1,12 @@
-set-game-preset-command-description = Sets the game preset for the specified number of upcoming rounds. Can also display another preset's title and description in the lobby to fool players.
-set-game-preset-command-help-text = setgamepreset <id> [number of rounds, defaulting to 1] [decoy preset]
+set-game-preset-command-description = Устанавливает игровой пресет для указанного количества предстоящих раундов. Также может отображать название и описание другого пресета в лобби, чтобы обмануть игроков.
+set-game-preset-command-help-text = setgamepreset <id> [количество раундов, по умолчанию 1] [приманка-пресет]
 set-game-preset-command-hint-1 = <id>
-set-game-preset-command-hint-2 = [number of rounds]
-set-game-preset-command-hint-3 = [decoy preset]
-
-set-game-preset-optional-argument-not-integer = If argument 2 is provided it must be a number.
-set-game-preset-preset-error = Unable to find game preset "{$preset}"
-set-game-preset-decoy-error = If argument 3 is provided it must be a valid preset. Unable to find game preset "{$preset}"
-
-#set-game-preset-preset-set = Set game preset to "{$preset}"
-set-game-preset-preset-set-finite = Set game preset to "{$preset}" for the next {$rounds} rounds.
-set-game-preset-preset-set-finite-with-decoy = Set game preset to "{$preset}" for the next {$rounds} rounds, showing {$decoy} in the lobby.
+set-game-preset-command-hint-2 = [количество раундов]
+set-game-preset-command-hint-3 = [приманка-пресет]
+set-game-preset-optional-argument-not-integer = Если указан аргумент 2, он должен быть числом.
+set-game-preset-preset-error = Не удаётся найти игровой пресет "{ $preset }"
+set-game-preset-decoy-error = Если указан аргумент 3, он должен быть валидным пресетом. Не удаётся найти игровой пресет "{ $preset }"
+#set-game-preset-preset-set = Установить игровой пресет на "{ $preset }"
+set-game-preset-preset-set-finite = Установить игровой пресет на "{ $preset }" на следующие { $rounds } раундов.
+set-game-preset-preset-set-finite-with-decoy = Установить игровой пресет на "{ $preset }" на следующие { $rounds } раундов, показывая { $decoy } в лобби.
+set-game-preset-preset-set = Установить игровой пресет на "{ $preset }"

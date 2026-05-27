@@ -1,159 +1,138 @@
 # clown
-construction-graph-tag-banana-peel = a banana peel
-construction-graph-tag-clown-suit = a clown suit
-construction-graph-tag-clown-shoes = clown shoes
-construction-graph-tag-clown-mask = a clown mask
-construction-graph-tag-clown-recorder = clown recorder
-construction-graph-tag-clown-bike-horn = bike horn
-construction-graph-tag-clowne-horn = broken bike horn
-construction-graph-tag-happy-honk-meal = happy honk meal
-construction-graph-tag-woeful-cluwne-meal = woeful cluwne meal
-construction-graph-tag-boxhug = a box of hugs
-
+construction-graph-tag-banana-peel = банановая кожура
+construction-graph-tag-clown-suit = костюм клоуна
+construction-graph-tag-clown-shoes = обувь клоуна
+construction-graph-tag-clown-mask = маска клоуна
+construction-graph-tag-clown-recorder = рекордер клоуна
+construction-graph-tag-clown-bike-horn = велосипедный рог
+construction-graph-tag-clowne-horn = сломанный велосипедный рог
+construction-graph-tag-happy-honk-meal = счастливый обед с гудком
+construction-graph-tag-woeful-cluwne-meal = грустный обед клоуна
+construction-graph-tag-boxhug = коробка объятий
 # mime
-construction-graph-tag-suspenders = suspenders
-construction-graph-tag-mime-meal = mime edition happy honk meal
-
+construction-graph-tag-suspenders = подтяжки
+construction-graph-tag-mime-meal = обед мима с счастливым гудком
 # crayon
-construction-graph-tag-purple-crayon = purple crayon
-construction-graph-tag-red-crayon = red crayon
-construction-graph-tag-yellow-crayon = yellow crayon
-construction-graph-tag-black-crayon = black crayon
-
+construction-graph-tag-purple-crayon = фиолетовый мелок
+construction-graph-tag-red-crayon = красный мелок
+construction-graph-tag-yellow-crayon = желтый мелок
+construction-graph-tag-black-crayon = черный мелок
 # eva
-construction-graph-tag-eva-suit = an EVA suit
-construction-graph-tag-eva-helmet = an EVA helmet
-
+construction-graph-tag-eva-suit = скафандр ЭВА
+construction-graph-tag-eva-helmet = шлем ЭВА
 # hud
-construction-graph-tag-security-hud = security hud
-construction-graph-tag-medical-hud = medical hud
-
+construction-graph-tag-security-hud = защитный HUD
+construction-graph-tag-medical-hud = медицинский HUD
 # security
-construction-graph-tag-sun-glasses = sun glasses
-construction-graph-tag-security-helmet = security helmet
-
+construction-graph-tag-sun-glasses = солнечные очки
+construction-graph-tag-security-helmet = защитный шлем
 # materials
-construction-graph-tag-manipulator = modular machine part
-construction-graph-tag-voice-trigger = a voice trigger
-construction-graph-tag-signal-trigger = a signal trigger
-construction-graph-tag-proximity-sensor = proximity sensor
-construction-graph-tag-glass-shard = a glass shard
-construction-graph-tag-plasma-glass-shard = a plasma glass shard
-construction-graph-tag-uranium-glass-shard = a uranium glass shard
-construction-graph-tag-reinforced-glass-shard = a reinforced glass shard
-construction-graph-tag-grey-flatcap = a grey flatcap
-construction-graph-tag-brown-flatcap = a brown flatcap
-construction-graph-tag-cuffs = cuffs
-construction-graph-tag-payload = payload
-construction-graph-tag-empty-can = an empty can
-construction-graph-tag-igniter = an igniter
-construction-graph-tag-modular-receiver = modular receiver
-construction-graph-tag-power-cell-small = power cell small
-construction-graph-tag-power-cell = power cell
-construction-graph-tag-potato-battery = a potato battery
-construction-graph-tag-super-compact-ai-chip = a super-compact AI chip
-
+construction-graph-tag-manipulator = модульная часть машины
+# materials
+construction-graph-tag-capacitor = конденсатор
+construction-graph-tag-voice-trigger = голосовой триггер
+construction-graph-tag-signal-trigger = сигнальный триггер
+construction-graph-tag-proximity-sensor = датчик приближения
+construction-graph-tag-glass-shard = осколок стекла
+construction-graph-tag-plasma-glass-shard = осколок стекла из плазмы
+construction-graph-tag-uranium-glass-shard = урановый осколок стекла
+construction-graph-tag-reinforced-glass-shard = армированный осколок стекла
+construction-graph-tag-grey-flatcap = серая кепка
+construction-graph-tag-brown-flatcap = коричневая кепка
+construction-graph-tag-cuffs = манжеты
+construction-graph-tag-payload = полезная нагрузка
+construction-graph-tag-empty-can = пустая банка
+construction-graph-tag-igniter = воспламенитель
+construction-graph-tag-modular-receiver = модульный приемник
+construction-graph-tag-power-cell-small = маленький аккумулятор
+construction-graph-tag-power-cell = аккумулятор
+construction-graph-tag-potato-battery = картофельная батарея
+construction-graph-tag-super-compact-ai-chip = суперкомпактный чип ИИ
 # other
-construction-graph-tag-light-bulb = light bulb
-construction-graph-tag-radio = radio
-construction-graph-tag-pipe = gas pipe
-construction-graph-tag-human-head = human head
-construction-graph-tag-bucket = bucket
-construction-graph-tag-borg-arm = borg arm
-construction-graph-tag-borg-head = borg head
-construction-graph-tag-medkit = medkit
-construction-graph-tag-flower = flower
-construction-graph-tag-ambrosia = ambrosia
-construction-graph-tag-rifle-stock = rifle stock
-construction-graph-tag-match-stick = match stick
-construction-graph-tag-potato = a potato
-construction-graph-tag-wheat-bushel = wheat bushel
-construction-graph-tag-corgi-hide = corgi hide
-construction-graph-tag-apron = an apron
-construction-graph-tag-utility-belt = a utility belt
-soil-construction-graph-any-mushroom = any mushroom
-construction-graph-tag-mop-basic = mop
-construction-graph-tag-paper = office paper
-construction-graph-tag-core-pinpointer-piece = piece of core pinpointer
-
+construction-graph-tag-light-bulb = лампочка
+construction-graph-tag-radio = радио
+construction-graph-tag-pipe = труба
+construction-graph-tag-human-head = человеческая голова
+construction-graph-tag-bucket = ведро
+construction-graph-tag-borg-arm = рука борга
+construction-graph-tag-borg-head = голова борга
+construction-graph-tag-medkit = аптечка
+construction-graph-tag-flower = цветок
+construction-graph-tag-ambrosia = амброзия
+construction-graph-tag-rifle-stock = приклад винтовки
+construction-graph-tag-match-stick = спичка
+construction-graph-tag-potato = картофель
+construction-graph-tag-wheat-bushel = сноп пшеницы
+construction-graph-tag-apron = апрон
+construction-graph-tag-utility-belt = полезный пояс
+soil-construction-graph-any-mushroom = любая шляпка
+construction-graph-tag-mop-basic = протига
+construction-graph-tag-corgi-hide = шкура корги
 # toys
-construction-graph-tag-rubber-ducky = a rubber ducky
-construction-graph-tag-ghost = ghost soft toy
-construction-graph-tag-ectoplasm = ectoplasm
-construction-graph-tag-lizard-plushie = lizard plushie
-
+construction-graph-tag-rubber-ducky = резиновая уточка
+construction-graph-tag-ghost = мягкая игрушка-призрак
+construction-graph-tag-ectoplasm = эксцептоплазма
+construction-graph-tag-lizard-plushie = плюшевая ящерица
 # carpet
-construction-graph-tag-black-carpet = black carpet
-construction-graph-tag-blue-carpet = blue carpet
-construction-graph-tag-cyan-carpet = cyan carpet
-construction-graph-tag-green-carpet = green carpet
-construction-graph-tag-orange-carpet = orange carpet
-construction-graph-tag-pink-carpet = pink carpet
-construction-graph-tag-purple-carpet = purple carpet
-construction-graph-tag-red-carpet = red carpet
-construction-graph-tag-white-carpet = white carpet
-
+construction-graph-tag-black-carpet = черный ковер
+construction-graph-tag-blue-carpet = синий ковер
+construction-graph-tag-cyan-carpet = циановый ковер
+construction-graph-tag-green-carpet = зеленый ковер
+construction-graph-tag-orange-carpet = оранжевый ковер
+construction-graph-tag-pink-carpet = розовый ковер
+construction-graph-tag-purple-carpet = фиолетовый ковер
+construction-graph-tag-red-carpet = красный ковер
+construction-graph-tag-white-carpet = белый ковер
 # mechs
-construction-graph-tag-hamtr-central-control-module = HAMTR central control module
-construction-graph-tag-hamtr-peripherals-control-module = HAMTR peripherals control module
-construction-graph-tag-honk-central-control-module = H.O.N.K. central control module
-construction-graph-tag-honk-peripherals-control-module = H.O.N.K. peripherals control module
-construction-graph-tag-honk-weapon-control-and-targeting-module = H.O.N.K. weapon control and targeting module
-construction-graph-tag-ripley-central-control-module = ripley central control module
-construction-graph-tag-ripley-peripherals-control-module = ripley peripherals control module
-
+construction-graph-tag-hamtr-central-control-module = центральный управляющий модуль HAMTR
+construction-graph-tag-hamtr-peripherals-control-module = управляющий модуль периферийных устройств HAMTR
+construction-graph-tag-honk-central-control-module = центральный управляющий модуль H.O.N.K.
+construction-graph-tag-honk-peripherals-control-module = управляющий модуль периферийных устройств H.O.N.K.
+construction-graph-tag-honk-weapon-control-and-targeting-module = модуль управления оружием и прицеливанием H.O.N.K.
+construction-graph-tag-ripley-central-control-module = центральный управляющий модуль Ripley
+construction-graph-tag-ripley-peripherals-control-module = управляющий модуль периферийных устройств Ripley
 # structures
-construction-graph-tag-door-electronics-circuit-board = door electronics circuit board
-construction-graph-tag-firelock-electronics-circuit-board = firelock electronics circuit board
-construction-graph-tag-conveyor-belt-assembly = conveyor belt assembly
-construction-graph-tag-station-ai-core-electronics = station AI core electronics
-
+construction-graph-tag-door-electronics-circuit-board = платка электроники дверей
+construction-graph-tag-firelock-electronics-circuit-board = платка электроники огнезапора
+construction-graph-tag-station-ai-core-electronics = электроника ядра ИИ станции
+construction-graph-tag-conveyor-belt-assembly = сборка конвейерного пояса
 # tools
-construction-graph-tag-multitool = a multitool
-construction-graph-tag-health-analyzer = health analyzer
-
+construction-graph-tag-multitool = мультитул
+construction-graph-tag-health-analyzer = анализатор здоровья
 # utils
-construction-graph-tag-air-alarm-electronics = air alarm electronics
-construction-graph-tag-fire-alarm-electronics = fire alarm electronics
-construction-graph-tag-mailing-unit-electronics = mailing unit electronics
-construction-graph-tag-intercom-electronics = intercom electronics
-construction-graph-tag-solar-assembly-parts = solar assembly parts
-construction-graph-tag-solar-tracker-electronics = solar tracker electronics
-construction-graph-tag-station-map-electronics = station map electronics
-construction-graph-tag-signal-timer-electronics = signal timer electronics
-construction-graph-tag-screen-timer-electronics = screen timer electronics
-construction-graph-tag-brig-timer-electronics = brig timer electronics
-construction-graph-tag-wallmount-generator-circuit-board = wallmount generator circuit board
-construction-graph-tag-wallmount-apu-circuit-board = wallmount APU circuit board
-construction-graph-tag-wallmount-substation-circuit-board = wallmount substation circuit board
-construction-graph-tag-surveillance-camera-monitor-board = surveillance camera monitor board
-construction-graph-tag-television-board = television board
-construction-graph-tag-freezer-electronics = freezer electronics
-construction-graph-tag-turret-control-electronics = sentry turret control panel electronics
-
+construction-graph-tag-air-alarm-electronics = электроника воздушной сигнализации
+construction-graph-tag-fire-alarm-electronics = электроника пожарной сигнализации
+construction-graph-tag-mailing-unit-electronics = электроника почтового устройства
+construction-graph-tag-intercom-electronics = электроника интеркома
+construction-graph-tag-solar-assembly-parts = части солнечной сборки
+construction-graph-tag-solar-tracker-electronics = электроника солнечного трекера
+construction-graph-tag-station-map-electronics = электроника карты станции
+construction-graph-tag-signal-timer-electronics = электроника таймера сигнала
+construction-graph-tag-screen-timer-electronics = электроника экрана таймера
+construction-graph-tag-brig-timer-electronics = электроника таймера для камеры
+construction-graph-tag-wallmount-generator-circuit-board = платка генератора для монтажа на стене
+construction-graph-tag-wallmount-apu-circuit-board = платка APU для монтажа на стене
+construction-graph-tag-wallmount-substation-circuit-board = платка подстанции для монтажа на стене
+construction-graph-tag-surveillance-camera-monitor-board = плата монитора камеры наблюдения
+construction-graph-tag-television-board = плата телевизора
+construction-graph-tag-turret-control-electronics = электроника панели управления охранной турелью
+construction-graph-tag-freezer-electronics = электроника морозильной камеры
 # crystals
-construction-graph-tag-cyan-crystal-shard = cyan crystal shard
-construction-graph-tag-blue-crystal-shard = blue crystal shard
-construction-graph-tag-pink-crystal-shard = pink crystal shard
-construction-graph-tag-orange-crystal-shard = orange crystal shard
-construction-graph-tag-red-crystal-shard = red crystal shard
-construction-graph-tag-green-crystal-shard = green crystal shard
-construction-graph-tag-yellow-crystal-shard = yellow crystal shard
-construction-graph-tag-black-crystal-shard = black crystal shard
-
+construction-graph-tag-cyan-crystal-shard = циановый осколок кристалла
+construction-graph-tag-blue-crystal-shard = синий осколок кристалла
+construction-graph-tag-pink-crystal-shard = розовый осколок кристалла
+construction-graph-tag-orange-crystal-shard = оранжевый осколок кристалла
+construction-graph-tag-red-crystal-shard = красный осколок кристалла
+construction-graph-tag-green-crystal-shard = зеленый осколок кристалла
+construction-graph-tag-yellow-crystal-shard = желтый осколок кристалла
+construction-graph-tag-black-crystal-shard = черный осколок кристалла
 # unknown
-construction-graph-tag-weapon-pistol-chimp-upgrade-kit = pistol CHIMP upgrade kit
-construction-graph-tag-torch = torch
-
+construction-graph-tag-weapon-pistol-chimp-upgrade-kit = комплект модернизации пистолета CHIMP
+construction-graph-tag-torch = факел
 # atmos
-construction-graph-tag-fire-extinguisher = fire extinguisher
-construction-graph-tag-fire-helmet = fire helmet
-
-# salvage
-construction-graph-tag-spationaut-hardsuit = spationaut hardsuit
-
+construction-graph-tag-fire-extinguisher = огнетушитель
+construction-graph-tag-fire-helmet = пожарный шлем
 # clothing
-construction-graph-tag-backpack = backpack
-
-# chemistry
-construction-graph-tag-centrifuge-compatible = centrifugable container
+construction-graph-tag-backpack = рюкзак
+# salvage
+construction-graph-tag-spationaut-hardsuit = скафандр утилизатора

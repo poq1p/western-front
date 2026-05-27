@@ -1,21 +1,16 @@
-make-ghost-roles-window-title = Make Ghost Role
-
-make-ghost-roles-window-entity-label = Entity
-make-ghost-roles-window-role-name-label = Role Name
-make-ghost-roles-window-role-description-label = Role Description
-make-ghost-roles-window-role-rules-label = Role Rules
-make-ghost-roles-window-make-sentient-label = Make Sentient
-make-ghost-roles-window-initial-duration-label = Initial Duration (s)
-make-ghost-roles-window-join-extends-by-label = Joins Extend By (s)
-make-ghost-roles-window-max-duration-label = Max Duration (s)
-
-make-ghost-roles-window-make-button = Make
-
+make-ghost-roles-window-title = Создать роль призрака
+make-ghost-roles-window-entity-label = Сущность
+make-ghost-roles-window-role-name-label = Название роли
+make-ghost-roles-window-role-description-label = Описание роли
+make-ghost-roles-window-role-rules-label = Правила роли
+make-ghost-roles-window-make-sentient-label = Сделать разумным
+make-ghost-roles-window-initial-duration-label = Начальная продолжительность (с)
+make-ghost-roles-window-join-extends-by-label = Увеличение при присоединении (с)
+make-ghost-roles-window-max-duration-label = Максимальная продолжительность (с)
+make-ghost-roles-window-make-button = Создать
 # Raffle
-make-ghost-roles-window-raffle-not-button = Don't raffle
-make-ghost-roles-window-raffle-custom-settings-button = Custom settings
-
-make-ghost-roles-window-raffle-role-label = Raffle Role?
-make-ghost-roles-window-raffle-settings-label = {$id} (initial {$initialDuration}s, max {$maxDuration}s, join adds {$joinExtendsDurationBy}s)
-
-make-ghost-roles-window-raffle-warning-tooltip = The initial duration must not exceed the maximum duration.
+make-ghost-roles-window-raffle-not-button = Не разыгрывать
+make-ghost-roles-window-raffle-custom-settings-button = Пользовательские настройки
+make-ghost-roles-window-raffle-role-label = Разыгрывать роль?
+make-ghost-roles-window-raffle-settings-label = { $id } (начальная { $initialDuration }с, макс. { $maxDuration }с, присоединение добавляет { $joinExtendsDurationBy }с)
+make-ghost-roles-window-raffle-warning-tooltip = Начальная продолжительность не должна превышать максимальную продолжительность.

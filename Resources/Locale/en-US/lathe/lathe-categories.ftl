@@ -1,54 +1,52 @@
 # Generic
-lathe-category-circuitry = Circuitry
-lathe-category-clothing = Clothing
-lathe-category-lights = Lights
-lathe-category-machines = Machines
-lathe-category-parts = Parts
-lathe-category-tools = Tools
-lathe-category-weapons = Weapons
-
+lathe-category-ammo = Боеприпасы
+lathe-category-clothing = Одежда
+lathe-category-circuitry = Электроника
+lathe-category-machines = Машины
+lathe-category-lights = Лампы
+lathe-category-tiles = Плитки
+lathe-category-mechs = Мехи
+lathe-category-parts = Компоненты
+lathe-category-robotics = Робототехника
+lathe-category-tools = Инструменты
+lathe-category-weapons = Вооружение
 # Biogen
-lathe-category-food = Food
-lathe-category-chemicals = Chemicals
-lathe-category-materials = Materials
-
+lathe-category-food = Пища
 # Circuit imprinter
-lathe-category-computers = Computers
-lathe-category-engineering = Engineering
-lathe-category-general = General
-lathe-category-medical = Medical
-lathe-category-research = Research
-lathe-category-security = Security
-lathe-category-service = Service
-lathe-category-supply = Supply
-
+lathe-category-computers = Компьютеры
+lathe-category-engineering = Инженерное
+lathe-category-general = Общее
+lathe-category-medical = Медицинское
+lathe-category-research = Исследования
+lathe-category-security = Безопасность
+lathe-category-service = Сервис
+lathe-category-circuit-tile = Схема
+lathe-category-concrete-tile = Бетон
+lathe-category-dark-tile = Тёмный
+lathe-category-faux-tile = Имитация
+lathe-category-maints-tile = Сервисные
 # Cutter
-lathe-category-tiles = Tiles
-lathe-category-circuit-tile = Circuit
-lathe-category-concrete-tile = Concrete
-lathe-category-dark-tile = Dark
-lathe-category-faux-tile = Faux
-lathe-category-maints-tile = Maints
-lathe-category-marble = Marble
-lathe-category-steel-tile = Steel
-lathe-category-white-tile = White
-lathe-category-wood-tile = Wood
-
-# Science
-lathe-category-mechs = Mechs
-lathe-category-modules = Modules
-lathe-category-robotics = Robotics
-
-# Security TechFab
-lathe-category-ammo = Ammo
-lathe-category-boxes = Boxes
-lathe-category-magazines = Magazines
-
+lathe-category-concrete = Бетон
+lathe-category-steel-tile = Сталь
+lathe-category-white-tile = Белый
+lathe-category-wood-tile = Дерево
+lathe-category-dark = Тёмный
+lathe-category-maints = Сервисные
+lathe-category-steel = Сталь
+lathe-category-white = Белый
+lathe-category-wood = Дерево
+lathe-category-marble = Мармур
+lathe-category-supply = Снабжение
+lathe-category-modules = Модули
+lathe-category-chemicals = Химикаты
+lathe-category-materials = Материалы
+lathe-category-boxes = Коробки
+lathe-category-magazines = Магазины
 # Uniform
-lathe-category-bedsheets = Bedsheets
-lathe-category-carpets = Carpets
-lathe-category-coats = Coats
-lathe-category-command = Command
-lathe-category-hats = Hats
-lathe-category-jumpsuits = Jumpsuits
-lathe-category-neck = Neck
+lathe-category-bedsheets = Одеяла
+lathe-category-carpets = Ковры
+lathe-category-coats = Халаты
+lathe-category-command = Командование
+lathe-category-hats = Шляпы
+lathe-category-jumpsuits = Комбинезоны
+lathe-category-neck = Шея

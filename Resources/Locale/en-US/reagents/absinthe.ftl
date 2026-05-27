@@ -1,4 +1,4 @@
-﻿### Messages that pop up when metabolizing absinthe.
+### Сообщения, которые появляются при метаболизме абсинта.
 
-absinthe-effect-hear-voice = You hear a tiny voice. "Tee hee hee!"
-absinthe-effect-feel-tulips = You feel tulips brush up against your legs.
+absinthe-effect-hear-voice = Вы слышите маленький голос. "Ти хе хе!"
+absinthe-effect-feel-tulips = Вы ощущаете, как тюльпаны скользят по вашим ногам.

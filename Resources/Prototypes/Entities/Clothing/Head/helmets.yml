@@ -589,3 +589,32 @@
   - type: Construction
     graph: cardHelmet
     node: cardhelmet
+
+- type: entity
+  parent: [ ClothingHeadHelmetArmoredBase, BaseMajorContraband ]
+  id: ClothingHeadHelmetWhite
+  name: whiteHelmet
+  description: whiteHelmet.
+  components:
+  - type: Sprite
+    sprite: Clothing/Head/Helmets/whiteHelmet.rsi
+  - type: Clothing
+    sprite: Clothing/Head/Helmets/whiteHelmet.rsi
+  - type: HideLayerClothing
+    layers:
+      Hair: HEAD
+
+- type: entity
+  parent: [ ClothingHeadHelmetArmoredBase, BaseMajorContraband ]
+  id: ClothingHeadHelmetRed
+  name: RedHelmet
+  description: redhelmet.
+  components:
+  - type: Sprite
+    sprite: Clothing/Head/Helmets/redhelmet.rsi
+  - type: Clothing
+    sprite: Clothing/Head/Helmets/redhelmet.rsi
+  - type: HideLayerClothing
+    layers:
+      Hair: HEAD
+

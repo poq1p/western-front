@@ -497,3 +497,24 @@
   - type: Construction
     graph: cardArmour
     node: cardarmour
+
+- type: entity
+  abstract: true
+  parent: ClothingOuterArmorBase
+  id: ClothingOuterArmorBaseSmi
+  name: SMI vest
+  description: A standard Type I armored SMI blue vest.
+  components:
+  - type: Sprite
+    sprite: Clothing/OuterClothing/Armor/smiArmor.rsi
+  - type: Clothing
+    sprite: Clothing/OuterClothing/Armor/smiArmor.rsi
+  - type: Armor 
+    modifiers:
+      coefficients:
+        Blunt: 0.70
+        Slash: 0.70
+        Piercing: 0.70 
+        Heat: 0.80
+  - type: ExplosionResistance
+    damageCoefficient: 0.90
