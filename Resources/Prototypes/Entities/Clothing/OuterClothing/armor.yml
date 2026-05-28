@@ -518,3 +518,23 @@
         Heat: 0.80
   - type: ExplosionResistance
     damageCoefficient: 0.90
+
+- type: entity
+  parent: ClothingOuterArmorBase
+  id: ClothingOuterArmorBaseRatnik
+  name: Бронежилет "РАТНИК" 
+  description: Классический бронижелет 6Б45 с напашником.
+  components:
+  - type: Sprite
+    sprite: Clothing/OuterClothing/Armor/ratnik_vest.rsi
+  - type: Clothing
+    sprite: Clothing/OuterClothing/Armor/ratnik_vest.rsi
+  - type: Armor 
+    modifiers:
+      coefficients:
+        Blunt: 0.70
+        Slash: 0.70
+        Piercing: 0.70 
+        Heat: 0.80
+  - type: ExplosionResistance
+    damageCoefficient: 0.90

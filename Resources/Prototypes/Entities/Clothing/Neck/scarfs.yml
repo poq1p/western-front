@@ -270,8 +270,8 @@
 - type: entity
   parent: ClothingScarfBase
   id: PovazkaWhite
-  name: povazka
-  description: white povazka
+  name: Белая повязка
+  description: Белая повязка.
   components:
   - type: Sprite
     sprite: Clothing/Neck/Scarfs/whitePO.rsi
@@ -280,9 +280,9 @@
 
 - type: entity
   parent: ClothingScarfBase
-  id: PovazkaRed
-  name: povazkared
-  description: red povazka
+  id: PovazkaBlue
+  name: Синяя изолента
+  description: шматок синий изоленты.
   components:
   - type: Sprite
     sprite: Clothing/Neck/Scarfs/redPO.rsi

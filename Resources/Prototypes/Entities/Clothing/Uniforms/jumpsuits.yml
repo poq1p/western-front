@@ -1371,8 +1371,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitMultic
-  name: NATO multicam
-  description: NATO multicam uniform.
+  name: Мультиками
+  description: Классический мультиками.
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpsuit/milticam.rsi
@@ -1382,10 +1382,21 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitBushlat
-  name: USSR uniformm
-  description: USSR OLD uniform.
+  name: Бушлат
+  description: Старый, потрепанный советский бушлат. Весьма толстый и неплохо согревает.
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpsuit/opolch.rsi
   - type: Clothing
     sprite: Clothing/Uniforms/Jumpsuit/opolch.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitRuForm
+  name: Российский камуфляж
+  description:  Новая форма Российского производства.
+  components:
+  - type: Sprite
+    sprite: Clothing/Uniforms/Jumpsuit/runewuniform.rsi
+  - type: Clothing
+    sprite: Clothing/Uniforms/Jumpsuit/runewuniform.rsi

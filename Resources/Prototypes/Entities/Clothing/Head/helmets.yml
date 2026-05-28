@@ -618,3 +618,44 @@
     layers:
       Hair: HEAD
 
+- type: entity
+  parent: ClothingHeadHelmetSwat
+  id: ClothingHeadHelmetRep
+  name: Шлем репортера
+  description: Не думаю что этот шлем защитит хотябы от осколков.
+  components:
+  - type: Sprite
+    sprite: Clothing/Head/Helmets/tacticalREP.rsi
+  - type: Clothing
+    sprite: Clothing/Head/Helmets/tacticalREP.rsi
+  - type: HideLayerClothing
+    layers:
+      Hair: HEAD
+
+- type: entity
+  parent: ClothingHeadHelmetSwat
+  id: ClothingHeadHelmetRf
+  name: шлем "РАТНИК"
+  description: Самый популярный шлем ратник 6Б47 в чехле.
+  components:
+  - type: Sprite
+    sprite: Clothing/Head/Helmets/tacticalUSSR.rsi
+  - type: Clothing
+    sprite: Clothing/Head/Helmets/tacticalUSSR.rsi
+  - type: HideLayerClothing
+    layers:
+      Hair: HEAD
+
+- type: entity
+  parent: ClothingHeadHelmetSwat
+  id: ClothingHeadHelmetNato
+  name: Тактический шлем НАТО
+  description: Тактический шлем НАТОвского производства.
+  components:
+  - type: Sprite
+    sprite: Clothing/Head/Helmets/tacticalNATO.rsi
+  - type: Clothing
+    sprite: Clothing/Head/Helmets/tacticalNATO.rsi
+  - type: HideLayerClothing
+    layers:
+      Hair: HEAD

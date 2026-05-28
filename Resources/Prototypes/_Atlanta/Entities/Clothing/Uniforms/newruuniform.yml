@@ -1,0 +1,11 @@
+- type: entity
+  parent: ClothingUniformBase
+  id: AtlantaUniformJumpsuitRuNew
+  name: Russian uniform
+  description: A russian jumpsuit. Used by russian soldiers.
+  components:
+  - type: Sprite
+    sprite: Clothing/Uniforms/Jumpsuit/runewuniform.rsi
+  - type: Clothing
+    sprite: Clothing/Uniforms/Jumpsuit/runewuniform.rsi
+
