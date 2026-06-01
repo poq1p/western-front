@@ -538,3 +538,23 @@
         Heat: 0.80
   - type: ExplosionResistance
     damageCoefficient: 0.90
+
+- type: entity
+  parent: ClothingOuterArmorBase
+  id: ClothingOuterArmorBaseStoormVsu
+  name: Штурмовой плитник 
+  description: Бронижелет с плитами, позади нашпашник, дабы вам точно не прострелили ваш зад.
+  components:
+  - type: Sprite
+    sprite: Clothing/OuterClothing/Armor/stoormVSU.rsi
+  - type: Clothing
+    sprite: Clothing/OuterClothing/Armor/stoormVSU.rsi
+  - type: Armor 
+    modifiers:
+      coefficients:
+        Blunt: 0.70
+        Slash: 0.70
+        Piercing: 0.70 
+        Heat: 0.80
+  - type: ExplosionResistance
+    damageCoefficient: 0.90
