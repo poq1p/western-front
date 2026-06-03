@@ -127,7 +127,39 @@
     beepSound:
       path: "/Audio/Effects/beep1.ogg"
       params:
-        volume: 5
+        volume: 1
+    initialBeepDelay: 0
+    beepInterval: 2
+    delay: 3.5
+  - type: EmitSoundOnTrigger
+    keysIn:
+    - timer
+    sound:
+      path: "/Audio/Weapons/Guns/Gunshots/batrifle.ogg"
+    positional: true
+  - type: StaticPrice
+    price: 1500
+
+- type: entity
+  parent: [FragileGrenadeBase, ProjectileGrenadeBase, BaseSyndicateContraband]
+  id: GrenadeM67
+  name: Граната M67
+  description: Говорят, это самая мощная граната.
+  components:
+  - type: Sprite
+    sprite: Objects/Weapons/Grenades/m60.rsi
+    layers:
+    - state: icon
+      map: ["enum.TriggerVisualLayers.Base"]
+  - type: ProjectileGrenade
+    fillPrototype: PelletClusterLethal
+    capacity: 30
+  - type: TriggerOnUse
+  - type: TimerTrigger
+    beepSound:
+      path: "/Audio/Effects/beep1.ogg"
+      params:
+        volume: 1
     initialBeepDelay: 0
     beepInterval: 2
     delay: 3.5
