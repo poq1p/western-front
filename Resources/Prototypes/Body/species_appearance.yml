@@ -92,3 +92,6 @@
         type: HumanoidMarkingModifierBoundUserInterface
       enum.StrippingUiKey.Key:
         type: StrippableBoundUserInterface
+  - type: StunOnDamageThreshold
+    damageThreshold: 20
+    stunDuration: 10
