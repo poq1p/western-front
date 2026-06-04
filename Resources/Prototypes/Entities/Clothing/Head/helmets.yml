@@ -659,3 +659,17 @@
   - type: HideLayerClothing
     layers:
       Hair: HEAD
+
+- type: entity
+  parent: ClothingHeadHelmetSwat
+  id: ClothingHeadHelmetVSUtact
+  name: Старый шлем ВСУ
+  description: Весьма старый простой тактический шлем, без чехла, с потертостями, в любом случаи, свою цель он выполняет на ура.
+  components:
+  - type: Sprite
+    sprite: Clothing/Head/Helmets/vsuhelmet.rsi
+  - type: Clothing
+    sprite: Clothing/Head/Helmets/vsuhelmet.rsi
+  - type: HideLayerClothing
+    layers:
+      Hair: HEAD
