@@ -1,8 +1,11 @@
 using Content.Shared.Administration.Logs;
 using Content.Shared.Damage.Components;
+using Content.Shared.Damage.Events;
 using Content.Shared.Database;
 using Content.Shared.FixedPoint;
 using Content.Shared.Stunnable;
+using Robust.Shared.Network;
+using Robust.Shared.Player;
 
 namespace Content.Shared.Damage.Systems;
 
@@ -14,6 +17,7 @@ public sealed class StunOnDamageThresholdSystem : EntitySystem
 {
     [Dependency] private readonly SharedStunSystem _stun = default!;
     [Dependency] private readonly ISharedAdminLogManager _adminLogger = default!;
+    [Dependency] private readonly INetManager _net = default!;
 
     public override void Initialize()
     {
@@ -58,6 +62,15 @@ public sealed class StunOnDamageThresholdSystem : EntitySystem
 
         var stunTime = TimeSpan.FromSeconds(component.StunDuration);
         _stun.TryUpdateParalyzeDuration(uid, stunTime);
+
+        if (_net.IsServer)
+        {
+            RaiseNetworkEvent(
+                new StunDamageThresholdScreenEffectEvent(component.StunDuration),
+                Filter.Entities(uid),
+                recordReplay: false
+            );
+        }
 
         Dirty(uid, component);
     }
