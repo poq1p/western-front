@@ -1371,8 +1371,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitMultic
-  name: Мультиками
-  description: Классический мультиками.
+  name: Мультикам
+  description: Классический мультикам.
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpsuit/milticam.rsi
@@ -1400,3 +1400,14 @@
     sprite: Clothing/Uniforms/Jumpsuit/runewuniform.rsi
   - type: Clothing
     sprite: Clothing/Uniforms/Jumpsuit/runewuniform.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitOldForm
+  name: Старая форма
+  description:  Неопознанный камуфляж. Возможно его носили в Югославии. А может и нет, в любом случаии, сейчас это старая тряпка, если вы её носите то скорее всего.. вы очень бедны.
+  components:
+  - type: Sprite
+    sprite: Clothing/Uniforms/Jumpsuit/ssocamo.rsi
+  - type: Clothing
+    sprite: Clothing/Uniforms/Jumpsuit/ssocamo.rsi
