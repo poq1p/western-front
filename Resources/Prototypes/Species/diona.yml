@@ -1,9 +1,8 @@
 - type: species
   id: Diona
   name: species-name-diona
-  roundStart: true
+  roundStart: false
   prototype: MobDiona
-  defaultSkinTone: "#cdb369"
   dollPrototype: AppearanceDiona
   skinColoration: Hues
   maleFirstNames: NamesDionaFirst
