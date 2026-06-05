@@ -421,3 +421,12 @@
           MobLuminousObject:
             min: 0
             max: 1
+#Western-Front: add some new trees
+- type: entity
+  parent: BaseTree
+  id: FloraTreeWesternBase
+  abstract: true
+  components:
+  - type: Sprite
+    sprite: Objects/Decoration/Flora/western-front_trees.rsi
+
