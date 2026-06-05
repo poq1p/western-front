@@ -430,3 +430,39 @@
   - type: Sprite
     sprite: Objects/Decoration/Flora/western-front_trees.rsi
 
+- type: entity
+  parent: FloraTreeWesternBase
+  id: FloraTreeWesternBerezka
+  name: Берёза
+  description: Старая берёза, которая повидала многое
+  components:
+  - type: Sprite
+    state: tree01
+
+- type: entity
+  parent: FloraTreeWesternBase
+  id: FloraTreeWesternTree
+  name: Дерево
+  description: Старое дерево, которое повидало многое
+  components:
+  - type: Sprite
+    state: tree02
+
+- type: entity
+  parent: FloraTreeWesternBase
+  id: FloraTreeWesternTree2
+  name: Дерево
+  description: Старое дерево, которое повидало многое
+  components:
+  - type: Sprite
+    state: tree03
+
+- type: entity
+  parent: FloraTreeWesternBase
+  id: FloraTreeWesternBerezkaBroken
+  name: Сломанная берёза
+  description: Как берёза, только сломанная
+  components:
+  - type: Sprite
+    state: tree04
+
