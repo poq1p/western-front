@@ -3,21 +3,12 @@
     "license": "CC-BY-SA-3.0",
     "copyright": "By Water Melon for Battlefron",
     "size": {
-        "x": 96,
-        "y": 96
+        "x": 132,
+        "y": 160
     },
     "states": [
         {
             "name": "tree01"
-        },
-        {
-            "name": "tree02"
-        },
-        {
-            "name": "tree03"
-        },
-        {
-            "name": "tree04"
         }
     ]
 }

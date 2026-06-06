@@ -424,45 +424,50 @@
 #Western-Front: add some new trees
 - type: entity
   parent: BaseTree
-  id: FloraTreeWesternBase
+  id: FloraTreeWesternBaseBerezka
   abstract: true
   components:
   - type: Sprite
-    sprite: Objects/Decoration/Flora/western-front_trees.rsi
+    sprite: Objects/Decoration/Flora/western-front_trees_berezka.rsi
+
 
 - type: entity
-  parent: FloraTreeWesternBase
+  parent: FloraTreeWesternBaseBerezka
   id: FloraTreeWesternBerezka
-  name: Берёза
+  name: берёза
   description: Старая берёза, которая повидала многое
   components:
   - type: Sprite
     state: tree01
 
 - type: entity
-  parent: FloraTreeWesternBase
-  id: FloraTreeWesternTree
-  name: Дерево
-  description: Старое дерево, которое повидало многое
+  parent: FloraTreeWesternBaseBerezka
+  id: FloraTreeWesternBerezkaBroken
+  name: сломанная берёза
+  description: Как берёза, только сломанная
   components:
   - type: Sprite
     state: tree02
 
 - type: entity
-  parent: FloraTreeWesternBase
-  id: FloraTreeWesternTree2
-  name: Дерево
+  parent: BaseTree
+  id: FloraTreeWesternTree
+  name: дерево
   description: Старое дерево, которое повидало многое
   components:
   - type: Sprite
-    state: tree03
+    sprite: Objects/Decoration/Flora/western-front_trees.rsi
+    state: tree01
 
 - type: entity
-  parent: FloraTreeWesternBase
-  id: FloraTreeWesternBerezkaBroken
-  name: Сломанная берёза
-  description: Как берёза, только сломанная
+  parent: BaseTree
+  id: FloraTreeWesternTree2
+  name: дерево
+  description: Старое дерево, которое повидало многое
   components:
   - type: Sprite
-    state: tree04
+    sprite: Objects/Decoration/Flora/western-front_trees_2.rsi
+    state: tree01
+
+
 
