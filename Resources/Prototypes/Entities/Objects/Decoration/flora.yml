@@ -428,7 +428,7 @@
   abstract: true
   components:
   - type: Sprite
-    sprite: Objects/Decoration/Flora/western-front_trees_berezka.rsi
+    sprite: Objects/Decoration/Flora/Western-Front/western-front_trees_berezka.rsi
 
 
 - type: entity
@@ -456,7 +456,7 @@
   description: Старое дерево, которое повидало многое
   components:
   - type: Sprite
-    sprite: Objects/Decoration/Flora/western-front_trees.rsi
+    sprite: Objects/Decoration/Flora/Western-Front/western-front_trees.rsi
     state: tree01
 
 - type: entity
@@ -466,7 +466,7 @@
   description: Старое дерево, которое повидало многое
   components:
   - type: Sprite
-    sprite: Objects/Decoration/Flora/western-front_trees_2.rsi
+    sprite: Objects/Decoration/Flora/Western-Front/western-front_trees_2.rsi
     state: tree01
 
 
