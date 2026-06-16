@@ -1,0 +1,28 @@
+# Репортер (общий, 3 часа общего времени, лимит 2)
+- type: job
+  id: WFReporter
+  name: Репортер
+  description: Репортер
+  playTimeTracker: JobWFReporter
+  requirements:
+    - !type:OverallPlaytimeRequirement
+      time: 3h
+  slots: 2
+  startingGear: WFReporterGear
+  icon: "JobIconReporter"
+  supervisors: job-supervisors-wf-reporter
+  canBeAntag: false
+  whitelistRequired: false
+
+- type: startingGear
+  id: WFReporterGear
+  equipment:
+    head: ClothingHeadHemetRep
+    innerClothing: ClothingUniformJumpsuitSecBlue
+    outerClothing: ClothingOuterVestPress
+    shoes: ClothingShoesColorWhite
+  storage:
+    back:
+    - Bandage
+    - Bandage
+    - MicrophoneInstrument

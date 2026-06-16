@@ -594,3 +594,98 @@
     layers:
       - state: green
       - state: psychologist
+
+# Western Front — ВС РФ
+
+- type: entity
+  id: SpawnPointWFRusDraftee
+  parent: SpawnPointJobBase
+  name: wf rus draftee
+  components:
+  - type: SpawnPoint
+    job_id: WFRusDraftee
+  - type: Sprite
+    layers:
+      - state: red
+
+- type: entity
+  id: SpawnPointWFRusRifleman
+  parent: SpawnPointJobBase
+  name: wf rus rifleman
+  components:
+  - type: SpawnPoint
+    job_id: WFRusRifleman
+  - type: Sprite
+    layers:
+      - state: red
+
+- type: entity
+  id: SpawnPointWFRusMachinegunner
+  parent: SpawnPointJobBase
+  name: wf rus machinegunner
+  components:
+  - type: SpawnPoint
+    job_id: WFRusMachinegunner
+  - type: Sprite
+    layers:
+      - state: red
+
+- type: entity
+  id: SpawnPointWFRusCommander
+  parent: SpawnPointJobBase
+  name: wf rus commander
+  components:
+  - type: SpawnPoint
+    job_id: WFRusCommander
+  - type: Sprite
+    layers:
+      - state: red
+
+# Western Front — ВСУ
+
+- type: entity
+  id: SpawnPointWFUkrRifleman
+  parent: SpawnPointJobBase
+  name: wf ukr rifleman
+  components:
+  - type: SpawnPoint
+    job_id: WFUkrRifleman
+  - type: Sprite
+    layers:
+      - state: blue
+
+- type: entity
+  id: SpawnPointWFUkrMachinegunner
+  parent: SpawnPointJobBase
+  name: wf ukr machinegunner
+  components:
+  - type: SpawnPoint
+    job_id: WFUkrMachinegunner
+  - type: Sprite
+    layers:
+      - state: blue
+
+- type: entity
+  id: SpawnPointWFUkrCommander
+  parent: SpawnPointJobBase
+  name: wf ukr commander
+  components:
+  - type: SpawnPoint
+    job_id: WFUkrCommander
+  - type: Sprite
+    layers:
+      - state: blue
+
+# Western Front — Репортер
+
+- type: entity
+  id: SpawnPointWFReporter
+  parent: SpawnPointJobBase
+  name: wf reporter
+  components:
+  - type: SpawnPoint
+    job_id: WFReporter
+  - type: Sprite
+    layers:
+      - state: green
+      - state: reporter

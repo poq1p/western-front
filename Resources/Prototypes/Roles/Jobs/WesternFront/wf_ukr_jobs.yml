@@ -1,0 +1,105 @@
+# ВСУ — Стрелок (стартовая роль, без требований)
+- type: job
+  id: WFUkrRifleman
+  name: Стрелок ВСУ
+  description: стрелок ВСУ
+  playTimeTracker: JobWFUkrRifleman
+  startingGear: WFUkrRiflemanGear
+  icon: "JobIconPassenger"
+  supervisors: job-supervisors-wf-ukr-commander
+  canBeAntag: false
+  whitelistRequired: false
+
+- type: startingGear
+  id: WFUkrRiflemanGear
+  equipment:
+    head: ClothingHeadHelmetNato
+    innerClothing: ClothingUniformJumpsuiMultic
+    outerClothing: ClothingOuterArmorBaseStoormVsu
+    shoes: ClothingShoesBootsMercFilled
+    belt: ClothingBeltMercWebbing
+    neck: PovazkaBlue
+  storage:
+    belt:
+    - WeaponRifleM16A4
+    - MagazineRifle556UEG
+    - MagazineRifle556UEG
+    - MagazineRifle556UEG
+    - MagazineRifle556UEG
+    - GrenadeM67
+    - GrenadeM67
+    - Bandage
+
+
+# ВСУ — Пулеметчик (5 часов на стрелке)
+- type: job
+  id: WFUkrMachinegunner
+  name: Пулеметчик ВСУ
+  description: Пулеметчик ВСУ
+  playTimeTracker: JobWFUkrMachinegunner
+  requirements:
+    - !type:RoleTimeRequirement
+      role: JobWFUkrRifleman
+      time: 5h
+  startingGear: WFUkrMachinegunnerGear
+  icon: "JobIconPassenger"
+  supervisors: job-supervisors-wf-ukr-commander
+  canBeAntag: false
+  whitelistRequired: false
+
+- type: startingGear
+  id: WFUkrMachinegunnerGear
+  equipment:
+    head: ClothingHeadHelmetRed
+    innerClothing: ClothingUniformJumpsuiMultic
+    outerClothing: ClothingOuterVestWebMerc
+    shoes: ClothingShoesBootsMercFilled
+    belt: ClothingBeltMercWebbing
+    neck: PovazkaBlue
+  storage:
+    belt:
+    - WeaponLightMachineGunMG60
+    - MagazineLightMachineGunDrum
+    - MagazineLightMachineGunDrum
+    - Bandage
+
+
+# ВСУ — Командир (10 часов на стрелке + 5 на пулеметчике, лимит 1)
+- type: job
+  id: WFUkrCommander
+  name: Командир ВСУ
+  description: Командир ВСУ
+  playTimeTracker: JobWFUkrCommander
+  requirements:
+    - !type:RoleTimeRequirement
+      role: JobWFUkrRifleman
+      time: 10h
+    - !type:RoleTimeRequirement
+      role: JobWFUkrMachinegunner
+      time: 5h
+  slots: 1
+  startingGear: WFUkrCommanderGear
+  icon: "JobIconPassenger"
+  supervisors: job-supervisors-wf-ukr-commander
+  canBeAntag: false
+  whitelistRequired: false
+
+- type: startingGear
+  id: WFUkrCommanderGear
+  equipment:
+    head: ClothingHeadHelmetVSUtact
+    innerClothing: ClothingUniformJumpsuitOldForm
+    outerClothing: ClothingOuterArmorBaseStoormVsu
+    shoes: ClothingShoesBootsMercFilled
+    belt: ClothingBeltMercWebbing
+    neck: PovazkaBlue
+    mask: ClothingMaskNeckGaiter
+  storage:
+    belt:
+    - WeaponRifleM28Tactical
+    - MagazineRifle762UEG
+    - MagazineRifle762UEG
+    - MagazineRifle762UEG
+    - MagazineRifle762UEG
+    - GrenadeM67
+    - Bandage

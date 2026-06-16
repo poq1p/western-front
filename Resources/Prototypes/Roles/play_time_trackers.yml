@@ -147,3 +147,28 @@
 
 - type: playTimeTracker
   id: JobWarden
+
+# Western Front trackers
+- type: playTimeTracker
+  id: JobWFRusDraftee
+
+- type: playTimeTracker
+  id: JobWFRusRifleman
+
+- type: playTimeTracker
+  id: JobWFRusMachinegunner
+
+- type: playTimeTracker
+  id: JobWFRusCommander
+
+- type: playTimeTracker
+  id: JobWFUkrRifleman
+
+- type: playTimeTracker
+  id: JobWFUkrMachinegunner
+
+- type: playTimeTracker
+  id: JobWFUkrCommander
+
+- type: playTimeTracker
+  id: JobWFReporter
