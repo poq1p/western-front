@@ -1,0 +1,143 @@
+# ВС РФ — Срочник (стартовая роль, без требований)
+- type: job
+  id: WFRusDraftee
+  name: Срочник ВСРФ
+  description: Срочник ВСРФ
+  playTimeTracker: JobWFRusDraftee
+  startingGear: WFRusDrafteeGear
+  icon: "JobIconPassenger"
+  supervisors: job-supervisors-wf-rus-commander
+  canBeAntag: false
+  whitelistRequired: false
+
+- type: startingGear
+  id: WFRusDrafteeGear
+  equipment:
+    head: ClothingHeadHelmetWhite
+    innerClothing: ClothingUniformJumpsuitOldForm
+    outerClothing: ClothingOuterArmorBaseRatnik
+    shoes: ClothingShoesBootsMercFilled
+    belt: ClothingBeltMercWebbing
+    neck: PovazkaWhite
+  storage:
+    belt:
+    - WeaponRifleInteQAKM
+    - MagazineRifleLight762x39
+    - MagazineRifleLight762x39
+    - MagazineRifleLight762x39
+    - MagazineRifleLight762x39
+
+
+# ВС РФ — Стрелок (3 часа на срочнике)
+- type: job
+  id: WFRusRifleman
+  name: стрелок ВСРФ
+  description: стрелок ВСРФ
+  playTimeTracker: JobWFRusRifleman
+  requirements:
+    - !type:RoleTimeRequirement
+      role: JobWFRusDraftee
+      time: 3h
+  startingGear: WFRusRiflemanGear
+  icon: "JobIconPassenger"
+  supervisors: job-supervisors-wf-rus-commander
+  canBeAntag: false
+  whitelistRequired: false
+
+- type: startingGear
+  id: WFRusRiflemanGear
+  equipment:
+    head: ClothingHeadHelmetRf
+    innerClothing: ClothingUniformJumpsuitRuForm
+    outerClothing: ClothingOuterArmorBaseRatnik
+    shoes: ClothingShoesBootsJackFiller
+    belt: ClothingBeltSecurityWebbing
+    neck: PovazkaWhite
+    mask: ClothingMaskNeckGaiter
+  storage:
+    belt:
+    - WeaponRifleInteQAKM
+    - MagazineRifleLight762x39
+    - MagazineRifleLight762x39
+    - MagazineRifleLight762x39
+    - MagazineRifleLight762x39
+    - MagazineRifleLight762x39
+    - GrenadeShrapnel
+    - GrenadeShrapnel
+    - Bandage
+
+
+# ВС РФ — Пулеметчик (5 часов на стрелке)
+- type: job
+  id: WFRusMachinegunner
+  name: Пулеметчик ВСРФ
+  description: Пулеметчик ВСРФ
+  playTimeTracker: JobWFRusMachinegunner
+  requirements:
+    - !type:RoleTimeRequirement
+      role: JobWFRusRifleman
+      time: 5h
+  startingGear: WFRusMachinegunnerGear
+  icon: "JobIconPassenger"
+  supervisors: job-supervisors-wf-rus-commander
+  canBeAntag: false
+  whitelistRequired: false
+
+- type: startingGear
+  id: WFRusMachinegunnerGear
+  equipment:
+    head: ClothingHeadHelmetWhite
+    innerClothing: ClothingUniformJumpsuitBushlat
+    outerClothing: ClothingOuterVestWebMerc
+    shoes: ClothingShoesBootsMercFilled
+    belt: ClothingBeltMercWebbing
+    gloves: ClothingHandsMercGlovesCombat
+    neck: PovazkaWhite
+  storage:
+    belt:
+    - WeaponLightMachineGunRPD
+    - MagazineLightMachineGun762x39
+    - MagazineLightMachineGun762x39
+    - MagazineLightMachineGun762x39
+    - Bandage
+
+
+# ВС РФ — Командир (10 часов на стрелке + 5 на пулеметчике, лимит 1)
+- type: job
+  id: WFRusCommander
+  name: Командир ВСРФ
+  description: Командир ВСРФ
+  playTimeTracker: JobWFRusCommander
+  requirements:
+    - !type:RoleTimeRequirement
+      role: JobWFRusRifleman
+      time: 10h
+    - !type:RoleTimeRequirement
+      role: JobWFRusMachinegunner
+      time: 5h
+  slots: 1
+  startingGear: WFRusCommanderGear
+  icon: "JobIconPassenger"
+  supervisors: job-supervisors-wf-rus-commander
+  canBeAntag: false
+  whitelistRequired: false
+
+- type: startingGear
+  id: WFRusCommanderGear
+  equipment:
+    head: ClothingHeadHelmetWhite
+    innerClothing: ClothingUniformJumpsuitOldForm
+    outerClothing: ClothingOuterVestWebMerc
+    shoes: ClothingShoesBootsMercFiller
+    belt: ClothingBeltMercWebbing
+    neck: PovazkaWhite
+  storage:
+    belt:
+    - WeaponAKMSRifle
+    - MagazineRifleLight762x39
+    - MagazineRifleLight762x39
+    - MagazineRifleLight762x39
+    - MagazineRifleLight762x39
+    - GrenadeShrapnel
+    - GrenadeShrapnel
+    - Bandage
